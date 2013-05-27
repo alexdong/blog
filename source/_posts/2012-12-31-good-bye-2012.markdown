@@ -1,0 +1,37 @@
+---
+author: alexdong
+comments: true
+date: 2012-12-31 17:23:08
+layout: post
+slug: good-bye-2012
+title: Good bye, 2012
+wordpress_id: 312
+categories:
+- design
+- startup
+- strategy
+---
+
+2013 is coming fast. In a few hours, it'll be 1st January, 2013.   A lot have happened in 2012.  It's time to write them down and move on to 2013.
+
+2012 is a watershed year for me.  Before 2012, I was a young man afraid of nothing; I had endless energy and would not even blink on taking on any Goliath standing between myself and the goal; I was a driven and self centred person, I didn't really understand emotion or human relationships.  I considered it a concept opposite to been objective and get things done. I thought it's a waste of time; I genuinely believed that given enough time and focus, I could jump right into any field and did something truly innovative and impressive in a short period of time;  I believed that the world operates on certain rules, only if I could figure them out;  I didn't worry about money. I thought my time and energy were too precious to waste on trivial stuff like that.
+
+2012 has turned me from a young idealistic young man into a pragmatic adult.  I become more self aware, begin to value human relationship.  My interests have finally shifted from pure technical challenges to solving real world problems.
+
+My work experience in 2012 came in two parts.  The first from January to late June.  I am very happy to see clear validation on my technical ability and product design skills.  I am also happily surprised by how good I am on strategic thinking.  I have definitely learned a few things about myself.  I don't have enough patience to work on the tactical tasks; I am ignorant of team rhythm and changed my mind without communicating properly, this has caused me and the people who work for me quite a bit trouble;  I'm not a good listener yet. I have largely ignored developing the soft skills;  I would work really long hours for a while and then either burn myself out or lost interests and have to stop and recharge. I don't operate like a typical engineer. I am more like an artist;  Last but not least, I lack the skill to build up and defend an argument, I am slow and deep thinker. Face-to-face debate is not to my advantage.
+
+The second part, from July to end of November has been challenging and full of drama. It's a painful experience where I act as an individual contributor.  There are some scenes that keep sneaking into my dreams even after a couple of months since I left the job. I was so stressed out that I became really sick twice in four months. I have always been a star employee throughout my career. So I haven't got much chance to observe the team dynamics from ground level.   It's quite rewarding to see how different personalities played out in a highly competitive environment.  I get to understand the leader's most important job is to build a team that can operate on its own, set a clear goal and trust people to deliver it; I start to appreciate the importance of having a goal and stick to it at least for a while even when new information shows up and that goal _might_ not be 100% correct anymore. Team rhythm and morale is too important to be destroyed in a constant change of directions.
+
+I get to see things from a lot more pragmatic viewpoints.  Everyone makes mistakes. Miscommunication exists. Team moves fast and information asymmetries is inevitable. This world is indeed many shades of grey. So instead of trying to work towards an ideal mental model, it's far easier and superior to stay open and keep adjusting the model with new findings.
+
+Working with ex-paypal, ex-youtube, ex-hotmail folks and glean the insights help me to realise that no one can really change the world. We are all surfers manoeuvring for a better position and waiting for the perfect wave to come.  The world is ready to change and there happens to be someone at the right place and right time to make it happen.  There might be 10x or 100x difference in company valuation but at individual level, there really isn't that much difference;  I start to understand the importance of staying in one industry and gradually build up the relationship and the understanding instead of jumping around;
+
+Ordered by priority, here are three things I'd like to focus on in 2013.
+
+First, to have a baby.  Z and I are at the age where the calling is getting really loud. Time for us to send our own messages to the future.
+
+Second, to establish a stable financial foundation. All my previous experiences, either working as an employee or build a business and sell it are all one-shot deal. Once it's done, it's over. I have to keep working on the treadmill and peddling hard.  There are tons of things I would like to do but without a sound financial base, it's always hard for me to do the sales job,  convincing people and constantly managing expectations. I want to have enough money such that I could do things my own way and still be able to leverage capitals out there.  I'd spend time and energy on things that will generate cumulative revenue in the long run, even at the cost of short term financial gains. I would pick one sure-fire product and work on it hard.  On the same time, I want to diversify my energy onto a few other projects to keep myself from burning out and hopefully build a portfolio that can cancel out the inevitable up-and-downs that are out of my own control.
+
+Third, to spend significant time improving myself.  To quote Zen and the Art of Motorcycle Maintenance: _You want to know how to paint a perfect painting?  It's easy. Make yourself perfect and then just paint naturally._  I'll spend some time on iOS and Object-C in 2013 but I would like to invest the majority of my learning time on soft skills like: to improve my writing skill, both in English and Chinese; to get a lot better at critical thinking, assess information and develop reasoned arguments; to hone my listening skill and be able to communicate my thoughts in a clear and succinct manner. I have long term interests in education and life science and health. I am sitting on the board of two companies in these fields.  I want to to spend more time understanding these two industries and hopefully position myself in the game for a long term success.
+
+2013, we'll see how it goes.

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<!--[if IE 8 ]>
+	<html lang="en" class="no-js ie8 oldie" xmlns="http://www.w3.org/1999/xhtml" xmlns:nectar="http://saymedia.com/2011/swml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 9 ]>
+	<html lang="en" class="ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:nectar="http://saymedia.com/2011/swml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+		
+	<head>
+			
+	<!-- Chartbeat -->
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+	
+	<title>ReadWriteWeb: Page Not Found</title>
+	<link rel="canonical" href="http://www.readwriteweb.com" />
+	
+	<!-- Meta Tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="copyright" content="2013 SAY Media, Inc." />
+	<meta name="description" content="ReadWriteWeb is a popular weblog that provides Web Technology news, reviews and analysis, covering web apps, web technology trends, social networking and social media." />
+	
+		
+	<!-- Google+ Publisher ID -->
+	<link href="https://plus.google.com/112111196451586545452" rel="publisher" />
+	
+	<!-- Facebook properties -->
+	<meta property="fb:page_id" content="65491870325" />
+	<meta property="fb:app_id" content="57345927025" />
+	<meta property="og:site_name" content="ReadWriteWeb"/>
+	
+	<!-- RSS -->
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.readwriteweb.com/rss.xml" />
+	
+	<!-- Icons -->
+	<link rel="icon" href="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/favicon.ico" type="image/ico" />
+	<link rel="shortcut icon" href="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/favicon.ico" type="image/ico" />
+	
+	<!-- CSS -->
+	<link rel="stylesheet" href="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/styles/css/styles.css">
+	<script type="text/javascript" src="http://use.typekit.com/xjw1wds.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+	
+	<!-- HTML5 SHIV SCRIPT -->
+	<!--[if lt IE 9]>  
+		<script type="text/javascript" src="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/js/html5shiv.js"></script>
+		<script type="text/javascript" src="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/js/placeholder.js"></script>
+	<![endif]-->
+	
+	<!--[if IE 8 ]>
+		<link rel="stylesheet" type="text/css" href="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/styles/css/ie8.css">
+	<![endif]-->
+	
+	<script>
+	var _conf = {
+			facebook_app_id: '57345927025',
+			root: '/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/'
+		};
+	</script>
+	
+		
+			
+	<script type="text/javascript"
+		id="admin-bootstrap"
+		data-sha="3bd512cdd497d6f5cff2c3b3de4eb8b17d00e061"
+				src="/_orion/static/3bd512cdd497d6f5cff2c3b3de4eb8b17d00e061/js/admin-bootstrap.js"
+		>
+	</script>
+	 
+	<script type="text/javascript">
+	say.onAdminReady = function()
+	{
+		say.setPage('_404', window.location.toString());
+	};
+	</script>
+
+
+
+</head>
+	
+	<body class="home section-web 404-page">
+
+		<div id="fb-root"></div>
+		
+		<div id="container">
+			<nav id="ubernav">
+					
+	<ul>
+		<li><a class="home" href="/" onclick="trackEvent(this,'Header','click','home icon');return false;">Home</a></li>
+		<li><a class="menu-section" href="#">Sections</a>
+			<ul>
+				<li><a href="/" onclick="trackEvent(this,'Header','click','section web');return false;">Web</a></li>
+				<li><a href="/start/" onclick="trackEvent(this,'Header','click','section start');return false;">Start</a></li>
+				<li><a href="/biz/" onclick="trackEvent(this,'Header','click','section biz');return false;">Biz</a></li>
+				<li><a href="/enterprise/" onclick="trackEvent(this,'Header','click','section enterprise');return false;">Enterprise</a></li>
+				<li><a href="/cloud/" onclick="trackEvent(this,'Header','click','section cloud');return false;">Cloud</a></li>
+				<li><a href="/hack/" onclick="trackEvent(this,'Header','click','section hack');return false;">Hack</a></li>
+				<li><a class="menu-section-last" href="/mobile/" onclick="trackEvent(this,'Header','click','section mobile');return false;">Mobile</a></li>
+				<li class="menu-archives"><a href="/archives.php" onclick="trackEvent(this,'Header','click','archives');return false;">Archives</a></li>
+			</ul>
+		</li>
+		<li><a class="menu-videos" href="/tag/video" onclick="trackEvent(this,'Header','click','Videos');return false;">Videos</a>
+		<li><a class="menu-reports" href="/reports/" onclick="trackEvent(this,'Header','click','Reports');return false;">Reports</a>
+			<ul class="reports">
+				<li><a href="/reports/the-talent-wars-todays-toughest-startup-challenge/" onclick="trackEvent(this,'Header','click','report The Talent Wars');return false;">The Talent Wars</a></li>
+				<li><a href="/reports/six-vcs-speak-out-growing/" onclick="trackEvent(this,'Header','click','report Six VCs Speak Out');return false;">Six VCs Speak Out</a></li>
+				<li><a href="/reports/engaging-online-communities/" onclick="trackEvent(this,'Header','click','report Online Communities');return false;">Online Communities</a></li>
+				<li><a href="/reports/big-data/" onclick="trackEvent(this,'Header','click','report Big Data');return false;">Big Data</a></li>
+				<li><a href="/reports/social-layer/" onclick="trackEvent(this,'Header','click','report The Social Layer');return false;">The Social Layer</a></li>
+				<li><a href="/reports/cloud-computing/" onclick="trackEvent(this,'Header','click','report Cloud Computing');return false;">Cloud Computing</a></li>
+				<li><a href="/reports/augmented-reality/" onclick="trackEvent(this,'Header','click','report Augmented Reality');return false;">Augmented Reality</a></li>
+				<li><a href="/reports/real-time-web/" onclick="trackEvent(this,'Header','click','report Real-Time Web');return false;">Real-Time Web</a></li>
+				<li><a href="/reports/community-management/" onclick="trackEvent(this,'Header','click','report Community Management');return false;">Community Management</a></li>	
+			</ul>
+		</li>
+		
+		<li class="last">
+			<div class="searchbar" href="#">
+				<form action="/search" method="GET" name="search_form">
+	        		<input name="query" id="search-submit-text" type="text" value="" placeholder="Search&hellip;"/>
+	        		<input type="submit" id="search-submit-btn" value="" onclick="trackEvent(this,'Search','search',this.form.query.value);return false;"/>
+		        </form>
+			</div>
+		</li>
+	</ul>
+
+			</nav>
+			
+			<header>
+					
+	<div class="branding">
+		<h1><a href="/" onclick="trackEvent(this,'Header','click','home logo');return false;">ReadWriteWeb</a></h1>
+	</div><!--closes branding-->
+	
+	<div class="subheader-bar">
+		<p class="featured">Featured Sections: <a href="/mobile/" onclick="trackEvent(this,'Header','click','Featured Mobile');return false;">Mobile</a> &amp; <a href="/start/" onclick="trackEvent(this,'Header','click','Featured Start');return false;">Start</a></p>
+		<p class="social">Get the newsletter
+			<a class="mail" href="#"></a>
+			<a class="rss" href="/rss.xml" onclick="trackEvent(this,'Header','click','rss');return false;"></a>
+			<a class="twtr" href="http://twitter.com/intent/user?screen_name=RWW" onclick="trackEvent(this,'Header','click','twitter');return false;"></a>
+			<a class="fb" href="http://www.facebook.com/ReadWriteWeb" onclick="trackEvent(this,'Header','click','facebook');return false;"></a>
+			<a class="gplus" href="https://plus.google.com/112111196451586545452?prsrc=3" onclick="trackEvent(this,'Header','click','google plus');return false;"></a>
+			<a class="linkedin" href="http://www.linkedin.com/groups/ReadWriteWeb-4097356?trk=myg_ugrp_ovr" onclick="trackEvent(this,'Header','click','linkedin');return false;"></a>
+		</p>
+	</div><!--closes date-social-bar-->
+
+							</header>
+			<div class="splitter"></div>
+			
+			<div id="content">
+									<div id="alpha">
+							<!-- _404 -->
+	
+	<p><b>&raquo; <a href="/categories.php">See archives by category</a></b></p>
+	
+	<h1>Page Not Found</h1>
+	
+	<br />
+	
+	<script type="text/javascript">
+	  var GOOG_FIXURL_LANG = 'en';
+	  var GOOG_FIXURL_SITE = 'http://www.readwriteweb.com'
+	</script>
+	<script type="text/javascript"
+	  src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+	</script>
+					</div>
+					
+					<div id="beta">
+													<div class="sidebar">
+																	<!-- sidebar -->
+
+
+	<!-- ROS ad -->
+	<div class="spotlight-ad">
+		<script src="http://adserver.adtechus.com/?adrawdata/3.0/5108.1//0/0/ADTECH;loc=100;noperf=1;"></script>
+	</div>
+
+<div class="fb-widget">
+	<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2FReadWriteWeb&amp;layout=standard&amp;show_faces=true&amp;width=282&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=70&amp;ref=300ad" scrolling="no" frameborder="0" style="margin-left: 6px; border:none; overflow:hidden; width:280px; height:70px;" allowTransparency="true"></iframe>
+	<fb:recommendations site="www.readwriteweb.com" width="288" height="300" header="false" font="arial" border_color="#FFFFFF"></fb:recommendations>
+</div>
+
+	<div class="content-ad">
+		<div id="RWW_BTF_RIGHTRAIL_AD">
+			<script src="http://adserver.adtechus.com/?adrawdata/3.0/5108.1/2418483/0/0/ADTECH;loc=100;noperf=1;"></script>
+		</div>
+	</div>
+	
+
+<div class="clearfix"></div>															</div>
+											</div>
+					
+												</div>
+			
+			<footer>
+					
+	<div class="footer-content">
+				<div class="splitter"></div>
+		<div class="copyright">
+			<ul>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/follow/">Follow RWW</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><a href="http://www.saymedia.com/advertisingcontact.php">Advertise</a></li>
+				<li><a href="/about/privacy-policy.php">Privacy Policy</a></li>
+			</ul>
+			<p>&copy; 2013 SAY Media, Inc.</p>
+		</div>
+		<div class="badge"></div>
+	</div><!--closes footer-content-->
+
+							</footer>
+					</div>
+		
+					<script type="text/javascript">var _gaq = _gaq || [];</script>
+	<script type="text/javascript" src="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/js/socialite.min.js"></script>
+	<script type="text/javascript" src="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/js/sharing.js"></script>
+	<script type="text/javascript" src="/static/f8a42bf9288b83416b0011cffa896f7c9eed7804/js/main.js"></script>
+	
+		          
+<!-- Disqus Comments Asynchronous Loader -->
+<script type="text/javascript">
+if(typeof disqus_shortname == 'undefined') {
+	var disqus_shortname = 'readwritewebmain';
+}
+(function () {
+  var s = document.createElement('script'); s.async = true;
+  s.src = 'http://disqus.com/forums/readwritewebmain/count.js';
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>		
+	<!-- Start kissmetrics tag -->
+	<script type="text/javascript">
+	    var _kmq = _kmq || [];
+	    var _kmk = _kmk || '0b6c986b0802e7580ed5243be2f7cb9ca54c995a';
+	</script>
+	<!-- End kissmetrics tag -->
+	
+	<script type="text/javascript">
+	
+	
+	// RWW GA
+	_gaq.push(['rww._setAccount', 'UA-421291-1']);
+	_gaq.push(['rww._setAllowLinker', true]); 
+	_gaq.push(['rww._setAllowHash', false]);
+	_gaq.push(['rww._setDomainName', 'none']);
+	
+	/*
+	* Custom GA variables
+	*/
+	_gaq.push(['rww._setCustomVar',
+		1,              // Slot 1 definition
+		'Type',         // Slot 1 label
+		'Home Page',    
+		3               // Sets the scope to page-level.
+	]);
+	
+	_gaq.push(['rww._setCustomVar',
+		2,              // Slot 2 definition
+		'Section',      // Slot 2 label
+		'web',         
+		3               // Sets the scope to page-level.
+	]);
+	
+	_gaq.push(['rww._setCustomVar',
+		3,              // Slot 3 definition
+		'Author',       // Slot 3 label
+		'N/A',  
+		3               // Sets the scope to page-level.
+	]);
+	
+	_gaq.push(['rww._setCustomVar',
+		4,              // Slot 4 definition
+		'Quarter',       // Slot 4 label
+		'N/A',  
+		3               // Sets the scope to page-level.
+	]);
+	_gaq.push(['rww._trackPageview']);
+	
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	
+	window.onerror = function(message, file, line) {
+		var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
+		_gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
+	}
+	</script>
+	
+<!-- Begin Chartbeat Tracking --> 
+	<script type="text/javascript">
+	var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 24210;
+	    _sf_async_config.domain = 'readwriteweb.com';
+	    _sf_async_config.sections = 'N/A'; 
+	    _sf_async_config.authors = 'N/A';   
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement('script');
+	        e.setAttribute('language', 'javascript');
+	        e.setAttribute('type', 'text/javascript');
+	        e.setAttribute('src',
+	           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != 'function') ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
+	</script>
+<!-- End Chartbeat Tracking --> 
+
+<!-- BEGIN comScore Tag -->
+	<script>
+		var _comscore = _comscore || [];
+		_comscore.push({c1: "2", c2: "6036036"});
+		(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s,el);
+		})();
+	</script>
+	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+	
+
+</body>
+	
+</html>
