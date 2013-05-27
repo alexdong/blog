@@ -125,7 +125,7 @@ article + article {
   article header { background: none; padding-bottom: 0; }
   article h1 {
     font-size: 1.8em;
-    a { color: #555555; &:hover { text-decoration:none } }
+    a { color: #222; &:hover { text-decoration:none } }
   }
   a[rel=full-article] {
     background: darken($main-bg, 5);
