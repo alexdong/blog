@@ -22,19 +22,19 @@ Here are the three major problems I noticed.
 
 First, **images are out-of-proportionally big.  They steal the attention away from the texts.** Here is the [What's Hot](https://plus.google.com/explore) page.
 
-[![Image too overwhelming](http://alexdong.com/wp-content/uploads/2013/05/Image-too-overwhelming2.png)](http://alexdong.com/wp-content/uploads/2013/05/Image-too-overwhelming2.png)
+[![Image too overwhelming](/images/2013-05-17-google-plus-is-skin-deep/Image-too-overwhelming2.png)](http://alexdong.com/images/2013-05-17-google-plus-is-skin-deep/Image-too-overwhelming2.png)
 
 It looks pretty because of the two high quality photos which have taken up the majority of screen real estate.  You eyes will inevitably look at Larry's face and the new Android Studio but did you notice much of the text at all? Did you realize that Android Studio is based on IntelliJ IDEA? (That news is, in my opinion, probably the most important and positive one for the Android developer community.)
 
 Here is what I get if I hide all the images.
 
-[![Image too overwhelming no image-](http://alexdong.com/wp-content/uploads/2013/05/Image-too-overwhelming-no-image-.png)](http://alexdong.com/wp-content/uploads/2013/05/Image-too-overwhelming-no-image-.png)
+[![Image too overwhelming no image-](/images/2013-05-17-google-plus-is-skin-deep/Image-too-overwhelming-no-image-.png)](http://alexdong.com/images/2013-05-17-google-plus-is-skin-deep/Image-too-overwhelming-no-image-.png)
 
 Do you notice the text content better? Do you realize how huge those images were?  Sure this can't be a good design unless Google+ wants to become the next pinterest clone.
 
 **The second problem is that the reading experience is weakened even further by endless demands for actions.**  Google+ constantly asks you to do things. Lots of them.  Now, go ahead and count how many actions you are suppose to do in the following page.
 
-[![Too noisy, too many actions](http://alexdong.com/wp-content/uploads/2013/05/Too-noisy-too-many-actions2.png)](http://alexdong.com/wp-content/uploads/2013/05/Too-noisy-too-many-actions2.png)
+[![Too noisy, too many actions](/images/2013-05-17-google-plus-is-skin-deep/Too-noisy-too-many-actions2.png)](http://alexdong.com/images/2013-05-17-google-plus-is-skin-deep/Too-noisy-too-many-actions2.png)
 
 
 
@@ -42,7 +42,7 @@ I found 27, how about you? This does not even include the 3 drop down lists whic
 
 **Third problem, the lack of discipline in using the whitespace.  **Whitespace is one of the most powerful, visually pleasing and least intrusive way to bring orders and visual hierarchies to a design. Yet what do you think of the whitespace in this [_Best of_ #Python](https://plus.google.com/s/%23python) page?
 
-[![Best of #python](http://alexdong.com/wp-content/uploads/2013/05/Best-of-python2.png)](http://alexdong.com/wp-content/uploads/2013/05/Best-of-python2.png)
+[![Best of #python](/images/2013-05-17-google-plus-is-skin-deep/Best-of-python2.png)](http://alexdong.com/images/2013-05-17-google-plus-is-skin-deep/Best-of-python2.png)
 
 What is this?! The only thing that seems to be useful is this one single line: "Hy: Lisp subset that compiles to Python". The rest of the screen space? Wasted.
 
