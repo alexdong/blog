@@ -1,0 +1,16 @@
+---
+layout: post
+title: "CAP FAQ, Affordance of line and color, Anarchism and China's Drone program"
+date: 2013-06-20 16:45
+comments: true
+categories: 
+- links
+---
+
+[The CAP FAQ](http://henryr.github.io/cap-faq/): CAP is one of those fundamental concept I hope more engineers understand, no matter which kind of database technology you use. MySQL, MongoDB, Cassandra, Riak. They are all trying to accomplish at most two of the three properties as defined by CAP. I can't imagine a civilized and in-depth discussion on database technology without knowing the other party has a solid grasp of the CAP theory.
+
+[Frequency Trails](http://dtrace.org/blogs/brendan/2013/06/19/frequency-trails/): What's fascinating about this is the comparison with heatmap and the affordance of color and line in data visualization tasks. *Frequency trails are [...] developed to study the finer details of hundreds of measured latency distributions from production servers, and in particular, to study latency outliers. ... Frequency trails use height to show the frequency of data rather than color, and provide higher resolution for outliers. Subtle details can be more easily seen by small variations in height, rather than small variations in color saturation.*
+
+[The Kind of Anarchism I Believe in, and What's Wrong with Libertarians](http://chomsky.info/interviews/20130528.htm): I like and respect Chomsky but I am suspicious of anything that can be summarized into a word ends with an -ism.  *anarchism [...] is a tendency that is suspicious and skeptical of domination, authority, and hierarchy. It seeks structures of hierarchy and domination in human life over the whole range, extending from, say, patriarchal families to, say, imperial systems, and it asks whether those systems are justified. It assumes that the burden of proof for anyone in a position of power and authority lies on them. Their authority is not self-justifying. They have to give a reason for it, a justification. And if they can't justify that authority and power and control, which is the usual case, then the authority ought to be dismantled and replaced by something more free and just. ... Well what's called libertarian in the United States, which is a special U. S. phenomenon, it doesn't really exist anywhere else -- a little bit in England -- permits a very high level of authority and domination but in the hands of private power: so private power should be unleashed to do whatever it likes.*
+
+[China To Peddle Discount Drones to Developing World?](http://chinadigitaltimes.net/2013/06/china-may-soon-peddle-discount-drones-to-the-developing-world/): Same way Facebook figures out privacy settings and NSA polishes its powerpoint slides. *Cashed-up aviation enthusiasts in the US and Europe are struggling to get their hands on UAVs – unmanned aerial vehicles (drones), because governments are still trying to work out how to regulate their purchase and use. But in China, there are no rules*
