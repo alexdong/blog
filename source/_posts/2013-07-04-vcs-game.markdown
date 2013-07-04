@@ -1,0 +1,20 @@
+---
+layout: post
+title: "VC's game, 30-day count down on startup, invite the unknown and Sweden's switch to left hand driving."
+date: 2013-07-04 16:44
+comments: true
+categories: 
+- links
+---
+
+[http://www.avc.com/a_vc/2013/06/valuation-vs-ownership.html](http://www.avc.com/a_vc/2013/06/valuation-vs-ownership.html): VC are motivated differently. Picking one means you have picked their game as yours.
+> We recommend that entrepreneurs keep the funding amounts small in the early rounds when the valuations are lower and then scale up the amounts in the later rounds when it is a lot more clear how money can create value and when the valuations will be higher. This model has worked out pretty well. David Karp raised $600k, then $4mm, then 5mm, then $25mm, then $80mm (or something like that). And at the time of the sale to Yahoo!, he owned a very nice stake in the business even though he had raised well north of $100mm. He did that by keeping his rounds small in the early days and only scaling them when he had to and the valuations offered were much higher.
+
+[Comment on My Startup has 30 Days to Live](https://news.ycombinator.com/item?id=5940554): Unsurprisingly, closing down a business as a failure isn't that different from getting it acquired.  You need to take care of employees, customers and yourself. It provides a clean slate for you to get started again. 
+
+[Invite the unknown](http://www.brainpickings.org/index.php/2013/06/18/anais-nin-the-unknown/): 
+> It is a sign of great inner insecurity to be hostile to the unfamiliar.
+> Understanding is not a piercing of the mystery, but an acceptance of it, a living blissfully with it, in it, through and by it.
+
+[Dagen H](http://en.wikipedia.org/wiki/Dagen_H): Dagen H(D day) was the day when traffic in Swden switched from driving on the left-hand side to the right.  The government and the public have done a thorough job that there was actually less accidents when the switch happened.  It's amazing that nowadays the governments seem to have less apetite for this kind of massive project anymore. 
+Bonus: checkout the Headlamp sold in Sweden not long before Dagen H.
