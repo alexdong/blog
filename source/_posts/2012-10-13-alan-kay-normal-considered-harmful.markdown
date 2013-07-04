@@ -20,11 +20,6 @@ The target audiences are computer science students at UIUC but if you get starte
 
 
 Here are the slides that interest me the most.
-
-[![](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.05.54-PM.png)](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.05.54-PM.png)
-
-
-
 	
   * Inner people is driven by forces from inside and outer people seek approval from others.
 
@@ -37,13 +32,6 @@ Here are the slides that interest me the most.
 	
   * Inner+Idea: who moves the history forward.
 
-
-
-
-[![](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.03.12-PM.png)](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.03.12-PM.png)
-
-
-
 	
   * Da Vinci is born with high IQ but Henry Ford was born in the right century with the knowledge ready for him. Hence Ford revolutionized how we travel yet  Da Vinci couldn't assemble an engine of his own.
 
@@ -52,14 +40,6 @@ Here are the slides that interest me the most.
 
 	
   * Outlook is very powerful because it helps us to see the world different. How to increase it? Travel. Think. Don't be instrumental. Think normal as harmful. Believe the world can be better. Escape the pink plane.
-
-
-
-
-[![](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.03.53-PM.png)](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.03.53-PM.png)
-
-
-
 	
   * There are some universal traits anthropologists have found.
 
@@ -68,21 +48,6 @@ Here are the slides that interest me the most.
 
 	
   * Carefully encourage and go after those "non-universal" ones. These are the things that separate us from frogs.
-
-
-
-
-
-
-
-[![](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.06.51-PM.png)](http://alexdong.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-3.06.51-PM.png)
-
-
-
-
-
-
-
 
 	
   * Paul MacCready was awarded the best engineer of 20th century for building the first human powered airplane that flew from UK to French.
@@ -93,13 +58,6 @@ Here are the slides that interest me the most.
 	
   * Paul started by constructing a really simple model, as shown on left-bottom corner, that allows him to cycle through assumptions and ideas within a few minutes. Hence he explored the problem space a lot thoroughly. He won the awards in simply 5 years.
 
-
-
-
-
-
-
-> 
 
 ![](http://www.columbia.edu/cu/news/02/10/images/susanSontag.jpg)
 
