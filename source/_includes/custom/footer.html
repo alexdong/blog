@@ -3,16 +3,15 @@
 </p>
 
 <script>
-var xmlhttp = null;
-if (window.XMLHttpRequest) {
-    xmlhttp = new XMLHttpRequest();
-} else {
-    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-}
-
-var url = "http://api.choir.io/b3523753b0b86626";
-var params = "label="+encodeURIComponent(window.location.host)+"&sound=success&text="+encodeURIComponent(document.title+' (Referrer: '+document.referrer+')');
-xmlhttp.open("POST", url, true);
-xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-xmlhttp.send(params);
+    var _choirKey = "1f4e44d69ade508c";
+    var _choirSound = "bloop/warble";
+    (function() {
+        var choir = document.createElement('script');
+        choir.type = 'text/javascript';
+        choir.async = true;
+        choir.src = "http://choir.io/static/scripts/_choir.js";
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(choir, s);
+    })();
 </script>
+
