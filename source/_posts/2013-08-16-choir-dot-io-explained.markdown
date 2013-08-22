@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-People ask me "why do you build [choir.io](http://choir.io)?. Yes,
+People ask me "why do you build [choir.io](http://choir.io)". Yes,
 the [Github Realtime Activity](http://choir.io/player/f9c750f2bedb0c0f) 
 demo is cool, but are you really going to bet your next startup on this?" 
 
@@ -22,8 +22,8 @@ app. Google's voice search is finally fast enough to keep up with
 my natural speaking speed. 
 
 However, the options for computers to communicate back to us 
-is still very limited. Your email client might play a ding sound
-when a new email arrives. But the sound stays the same regardless of who 
+are still very limited. Your email client might play a ding sound
+when a new email arrives. But the sound stays the same regardless of whom 
 the mail is sent from and how important it is to you.  
 
 Our ears are born multi-tasking masters. As I am
@@ -38,12 +38,12 @@ falling sound has become much louder as the ice hitting the ground.
 
 Sound is the perfect medium for wearable computers to talk back to us. 
 Sound has a dozen of properties that we can tune to convey different 
-level of emotions and intrusivenesses.  Different sound packs would fit 
-into various contextes. 
+level of emotions and intrusiveness.  Different sound packs would fit 
+into various contexts. 
 
 This is where Choir comes in. Choir provides a programmable
 interface to translate events into a rich set of context-aware sounds.
-Our users mark events with emotions and intrusivensses and we take care of the
+Our users mark events with emotions and intrusivenss and we take care of the
 rest. 
 
 Is Choir too early for the market? Certainly not. Choir has three 
@@ -58,7 +58,7 @@ credit card transactions, 500 errors are a few good examples here.
 Second, notify without interruptions. Today your notifications are 
 mostly delivered via email or chat room messages. You have to bear the cost
 of context switches to checkout these messages.  Choir can provide you 
-with a more fine grained control over different type of notifications. 
+with a more fine-grained control over different type of notifications. 
 For example, you might choose to play a pleasant, low-intrusive sound
 when a user gives a kudos to a support ticket, but you would probably want to
 select a negative and intrusive sound, maybe a sea monster roar, if a 
