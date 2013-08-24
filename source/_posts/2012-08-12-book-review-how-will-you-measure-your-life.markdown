@@ -8,6 +8,7 @@ title: 'Book review: how will you measure your life'
 wordpress_id: 45
 categories:
 - book
+- bestof
 ---
 
 I finished Clay Christensen's new book [How will you measure your life](http://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419/) this week.  Yes, the same Clay who wrote the ground breaking book "[Innovator's Dilemma](http://www.amazon.com/The-Innovators-Dilemma-Revolutionary-Essentials/dp/0060521996)" which defines what is a "disruptive innovation" and why well established companies often failed to compete with new emergent companies who was offering much cheaper and inferior products. If you haven't read that book yet, go buying one now and do yourself a favor by reading it cover to cover. It is literally the _bible_ in startup worlds.

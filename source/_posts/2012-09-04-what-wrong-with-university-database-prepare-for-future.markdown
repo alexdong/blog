@@ -8,6 +8,7 @@ title: What’s wrong with universities database class and how to prepare for th
 wordpress_id: 113
 categories:
 - code
+- bestof
 ---
 
 Every computer science or engineering graduate has learned the basics of relational database. This will certainly include some "advanced" skills like JOIN, or COUNT with GROUP BY, or sub-queries and probably certainly TRANSACTIONS. Students believe that they need to use these features in their real work.

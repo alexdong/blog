@@ -9,6 +9,7 @@ wordpress_id: 284
 categories:
 - book
 - culture
+- bestof
 ---
 
 [caption id="attachment_285" align="alignnone" width="400"][![Let my people go surfing](http://alexdong.com/wp-content/uploads/2012/12/let-my-people-go-surfing.jpg)](http://alexdong.com/book-review-let-my-people-go-surfing/let-my-people-go-surfing/) Let my people go surfing[/caption]

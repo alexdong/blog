@@ -8,6 +8,7 @@ title: 'Book Review: In Gold We Trust'
 wordpress_id: 288
 categories:
 - book
+- bestof
 ---
 
 [caption id="" align="alignnone" width="400"]![](http://static4.businessinsider.com/image/4f6cc02569bedd542400004f-400-/in-gold-we-trust-book-cover.jpg) In Gold We Trust cover[/caption]

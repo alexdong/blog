@@ -9,6 +9,7 @@ wordpress_id: 326
 categories:
 - culture
 - startup
+- bestof
 ---
 
 So it is true.  Aaron has killed himself.  That sucks.  I tried very hard not to cry but it hurts me deeply.

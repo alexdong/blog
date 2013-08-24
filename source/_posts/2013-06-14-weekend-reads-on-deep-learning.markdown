@@ -6,6 +6,7 @@ comments: true
 categories: 
 - links
 - ai
+- bestof
 ---
 
 Yesterday I posted the link on Google's new photo search and how "deep learning" makes that possible.  Here are some weekend reads on this topic.  The two videos focusing on different aspect of this concept. The first one explains the concept and the implication. The second talk covers how to use a large distributed computing model to train the multiple layers. 

@@ -9,6 +9,7 @@ wordpress_id: 349
 categories:
 - culture
 - strategy
+- bestof
 ---
 
 Tim O'Reilly linked to Paul Graham's short essay called "[The Top of My Todo List](http://paulgraham.com/todo.html)" today on twitter. I like what PG did to convert the 5 lessons to 5 commands.

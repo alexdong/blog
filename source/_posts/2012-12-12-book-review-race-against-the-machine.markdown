@@ -9,6 +9,7 @@ wordpress_id: 275
 categories:
 - book
 - strategy
+- bestof
 ---
 
 We are certainly living in an interesting time.  Besides all the financial crisis looming on the horizon, there are some fundamental challenges facing all the countries, that is **unemployment because of technology advancement**. In Spain, 60% people under 35 are unemployed. Despite all the seemingly good new, US is still losing job positions. But this time, it's not because of outsourcing to China or India, but because more and more jobs have been replaced by robots.

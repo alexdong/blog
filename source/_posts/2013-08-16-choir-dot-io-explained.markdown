@@ -4,6 +4,7 @@ title: "Choir.io explained"
 date: 2013-08-16 10:15
 comments: true
 categories: 
+- bestof
 ---
 
 People ask me "why do you build [choir.io](http://choir.io)". Yes,

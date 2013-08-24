@@ -11,6 +11,7 @@ categories:
 - design
 - education
 - startup
+- bestof
 ---
 
 I wasn't a top student in schools. My parents got called into school to "figure out a solution" a lot often than others.  I excel in some classes like history, chemistry and math but not others like literature.  I was appalling bad at remembering all those beautiful Chinese poems no matter how many times I tried to remember them.  I have never really understood why until I took the "[learning style](http://www.engr.ncsu.edu/learningstyles/ilsweb.html)" test.

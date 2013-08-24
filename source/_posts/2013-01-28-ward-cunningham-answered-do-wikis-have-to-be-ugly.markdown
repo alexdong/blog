@@ -9,6 +9,7 @@ wordpress_id: 366
 categories:
 - culture
 - design
+- bestof
 ---
 
 I have been bothered with the question "does community site have to be ugly to succeed" for a long time.  You see, most of the successful long running community sites are 'ugly'. Think reddit, hacker news, slashdot or metafilter. On the other side, you have the [digg redesign fiasco](http://mashable.com/2010/08/30/users-revolt-against-new-digg/), although one can argue that whether the strong correlation here equals to cause-and-effect. But it is a fact that [Matt](http://a.wholelottanothing.org/2012/03/my-webstock-talk.html), the owner of Metafilter, once redesigned the site to be more 'web 2.0' and noticed a significant traffic drop when he A/B tested the new design using live traffic.

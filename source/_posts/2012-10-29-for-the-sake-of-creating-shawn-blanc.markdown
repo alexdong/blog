@@ -8,6 +8,7 @@ title: For the Sake of Creating — Shawn Blanc
 wordpress_id: 236
 categories:
 - culture
+- bestof
 ---
 
 I wish I have the luxury to keep doing this. :-)

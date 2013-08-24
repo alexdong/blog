@@ -8,6 +8,7 @@ title: One fundamental difference between ElasticSearch and Solr
 wordpress_id: 355
 categories:
 - code
+- bestof
 ---
 
 **important update**: The recent release of Solr 4 has addressed the difference mentioned below. Now Solr handles replication similarly to ElasticSearch. Even better, a transaction log has been added for durabilities. So please be aware that the information below is more a comparison between ElasticSearch and Solr 3.  

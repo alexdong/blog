@@ -8,6 +8,7 @@ title: What's wrong with TechNZ's evaluation process
 wordpress_id: 388
 categories:
 - startup
+- bestof
 ---
 
 I'm on the advisory board of the dental software company Software Surgery.  We have had such a frustrating experience applying for a [TechNZ](http://www.msi.govt.nz/update-me/archive/frst-funding-archive/technz-terms-and-conditions/) funding that I believe **New Zealand needs a government grant/funding option designed specifically for software startups. ** The current system is probably well designed for manufacturing products but they are just unsuitable for software projects who can use helps from the government.

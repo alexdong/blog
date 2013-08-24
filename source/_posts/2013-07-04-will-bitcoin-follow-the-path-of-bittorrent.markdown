@@ -7,6 +7,7 @@ categories:
 - links
 - technology
 - strategy
+- bestof
 ---
 
 First of all, I love the concept of Bitcoin. I love a currency that's outside of the

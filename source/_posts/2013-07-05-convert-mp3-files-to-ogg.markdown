@@ -6,6 +6,7 @@ comments: true
 categories: 
 - code
 - open source
+- bestof
 ---
 
 I have never expected this to be hard. Sure it won't be difficult to do this in 2013. But after sinking almost 1 hour into this, I decided to write it down hoping that it might save other people a bit time. 

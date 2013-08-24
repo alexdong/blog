@@ -9,6 +9,7 @@ title: 'Where the media stands? A summary of news coverages on Aaron Swartz''s c
 wordpress_id: 334
 categories:
 - culture
+- bestof
 ---
 
 TL;DR:  Of all the news coverage on Aaron Swartz's case, **Guardian** provided the best coverage; **Economist** got and described the core accurately and timely;  **NYTimes** got the key points, but failed to follow up; **BBC** structured it as a "debate"; Japan's **Yomiuri** and **Asahi**, China's **PeopleDaily** had no coverage of this; **WSJ** is misleading its readers by associating the cause with depression; China's **Xinhua** performed the worst by talking about "_prevalence of depression in the tech community"_.

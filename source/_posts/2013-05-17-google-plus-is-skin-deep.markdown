@@ -8,6 +8,7 @@ title: What? New Google+ is beautiful? You must be joking
 wordpress_id: 399
 categories:
 - design
+- bestof
 ---
 
 [Harry McCracken](http://techland.time.com/author/hmccracken/) at Times wrote in his post [The Tragic Beauty of Google+](http://techland.time.com/2013/05/16/the-tragic-beauty-of-google/):

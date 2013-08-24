@@ -8,6 +8,7 @@ title: Mobile user retention rate per category and app revenue by source
 wordpress_id: 41
 categories:
 - mobile
+- bestof
 ---
 
 Flurry released a few blogs about mobile app statistics. Here are the ones that interest me the most.

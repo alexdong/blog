@@ -6,6 +6,8 @@ layout: post
 slug: the-economic-logic-behind-tech-and-talent-acquisitions
 title: The economic logic behind tech and talent acquisitions
 wordpress_id: 218
+categories:
+- bestof
 ---
 
 > There’s been a lot of speculation lately about why big companies spend millions of dollars acquiring startups for their technology or talent. The answer lies in the economic logic that big companies use to make major project decisions.
