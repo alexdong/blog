@@ -1,6 +1,27 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+html { background: #fcfcfc; }
+
+body > div > div { border-right-width: 0px;}
+
+body > header h1 a, body > header h1 a:visited, body > header h1 a:hover, body > header p, 
+body > header p a, body > header p a:visited, body > header p a:hover {
+    color: $subtitle-color;
+}
+
+nav { 
+    display: none; 
+}
+
+body #content > div#blog-archives > article { padding-left: 75px;}
+
+p, article blockquote, ol, ul {
+    margin-bottom: 0.5em; 
+}
 article blockquote { 
     font-size: 0.9em;
+    font-style: normal;
 }
+
+body > footer { background: none; text-align: center;}

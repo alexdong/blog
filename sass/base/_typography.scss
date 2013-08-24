@@ -15,15 +15,17 @@ $header-subtitle-font-family: $heading-font-family !default;
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2.2em;
+  font-size: 1em;
   @extend .heading;
   font-family: $header-title-font-family;
   font-weight: normal;
   line-height: 1.2em;
-  margin-bottom: 0.6667em;
 }
-body > header h2 {
-  font-family: $header-subtitle-font-family;
+body > header p {
+  margin-top: 0.3em;  
+  font-size: 0.70em;
+  line-height: 1.25em;
+  font-family: $sans;
 }
 
 body {
@@ -32,8 +34,8 @@ body {
   @extend .serif;
 }
 h1 {
-  font-size: 2.2em;
-  line-height: 1.2em;
+  font-size: 1.2em;
+  line-height: 125%;
 }
 
 @media only screen and (min-width: 992px) {
@@ -155,10 +157,6 @@ article blockquote {
 
 /* @extend this to force long lines of continuous text to wrap */
 .force-wrap {
-  white-space: -moz-pre-wrap;
-  white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
-  white-space: pre-wrap;
   word-wrap: break-word;
 }
 
