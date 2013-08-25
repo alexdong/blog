@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A problem statemetn for the web, bootstrap's way of thinking, a password manager follows unix philosophy and rules on writing c/c++ shared libraries"
+title: "A problem statement for the web, bootstrap's way of thinking, a password manager follows unix philosophy and rules on writing c/c++ shared libraries"
 date: 2013-08-26 09:44
 comments: true
 categories: 
