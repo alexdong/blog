@@ -8,6 +8,7 @@ title: The scapegoat theory of founder-investor relationship
 wordpress_id: 86
 categories:
 - startup
+- bestof
 ---
 
 I have been puzzled by one phenomena for a long time. I found that the board/investors seems to be fond of the idea to kick out the founder. My biggest problem with this is this is almost like uprooting a tree and cut off the thickest root. I couldn't understand how could this be a good idea at all.  Yesterday I finished class note from Peter Thiel's  Class 18: [Founder as Victim and Founder as God](http://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes-essay), which offers a perfect explanation.

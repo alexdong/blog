@@ -9,6 +9,7 @@ wordpress_id: 110
 categories:
 - book
 - code
+- bestof
 ---
 
 Today I had a chat with one of our most talented engineers who could code front-end animation effect that I wouldn't even believe it's possible.   When I started programming, it was assembly. Then c, c++, java/c#.  The new generation of programmers, however, start with html/javascript.

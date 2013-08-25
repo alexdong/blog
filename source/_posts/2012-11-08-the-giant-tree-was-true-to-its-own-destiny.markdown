@@ -9,6 +9,7 @@ wordpress_id: 254
 categories:
 - culture
 - startup
+- bestof
 ---
 
 Most of my respected entrepreneurs are the ones who [dare to be different](http://alexdong.com/fundamentally-unemployable/). Who stands on their own rights and push the boundaries. Like the [giant tree. ](https://medium.com/20/93b9168703d6)

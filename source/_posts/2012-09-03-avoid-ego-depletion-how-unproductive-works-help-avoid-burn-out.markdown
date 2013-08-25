@@ -8,6 +8,7 @@ title: Avoid ego depletion, aka how unproductive works can help avoid burn-out.
 wordpress_id: 100
 categories:
 - startup
+- bestof
 ---
 
 Startup life is stressful. Whether you're the founder or the employee.  Facing uncertainty everyday will drain your passion and energy.  Slowly but surely, you will wake up one day morning and feel like doing nothing. Everything seems to be broken. The whole universe seems to evolve against you.  You could literally stare at the monitor for a while and forgot what you want to do.   Experienced entrepreneurs will take the pace very carefully so that they could have a sustainable productive day-after-day. Rookies will throw two 100-hour weeks and burned out for another.
