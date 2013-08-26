@@ -2,18 +2,38 @@
 // Add styles here to make changes without digging in too much
 
 html { background: #fcfcfc; }
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+h1 { font-size: 1.5em;}
+h2 { font-size: 1.2em;}
+h3 { font-size: 1.05em;}
+h3, h4, h5, h6 { font-size: 1em;}
 
 body > div > div { border-right-width: 0px;}
+
+body > header { border-bottom: 1px solid #aaa; text-align: center; font-size: 1em; margin: 0 100px 0.5em 100px; padding: 10px 20px;}
+body #content > div > article { margin: 0 100px; padding: 10px 20px; }
+
 
 body > header h1 a, body > header h1 a:visited, body > header h1 a:hover, body > header p, 
 body > header p a, body > header p a:visited, body > header p a:hover {
     color: $subtitle-color;
 }
 
-nav { 
-    display: none; 
-}
+nav { display: none; }
 
+#blog-archives h1 { font-size: 1em;}
+#blog-archives h2:first-child { padding-top: 5px;}
+#blog-archives article { background: none;}
+#blog-archives article time .month { text-transform: none;}
+#blog-archives article footer { font-size: 0.85em;}
+article header p.meta, #blog-archives time { top: 0.8em; font-size: 0.85em; text-transform: none;}
+#blog-archives h1 { margin-bottom: 0; }
+
+#content > div.selfintro { margin: 20px; }
+#content > div.selfintro .hentry { margin: 20px 130px;}
+#content > div.selfintro img { border-width: 1px; float: left;  margin-right: 20px; width: 64px; -webkit-border-radius: 50px; -moz-border-radius: 50px; -ms-border-radius: 50px; -o-border-radius: 50px; border-radius: 50px;}
+article header { background: none; padding-bottom: 0; margin-bottom: 1em;}
+#content>div, #content>article { padding-top: 0;}
 body #content > div#blog-archives > article { padding-left: 75px;}
 
 p, article blockquote, ol, ul {
