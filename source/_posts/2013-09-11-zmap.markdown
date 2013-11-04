@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Zmap, messy technical standards and BULLRUN, Chrome's trojan strategy and plumbing OpenBSD with gdb"
+date: 2013-09-11 18:52
+comments: true
+categories: 
+- links
+---
+
+[Zmap](http://zmap.io) is a stateless and faster version of nmap. It can scan the complete IPv4 space in 44 minutes. Here’s is [WashingtonPost's article](http://www.washingtonpost.com/blogs/the-switch/wp/2013/08/18/heres-what-you-find-when-you-scan-the-entire-internet-in-an-hour/) on what you find when you scan the entire Internet in an hour. 
+
+[John Gilmore's speculation on "BULLRUN"](http://www.mail-archive.com/cryptography@metzdowd.com/msg12325.html)
+> NSA employees participted throughout, and occupied leadership roles in the committee and among the editors of the documents
+> Every once in a while, someone not an NSA employee, but who had longstanding ties to NSA, would make a suggestion that reduced privacy or security, but which seemed to make sense when viewed by people who didn't know much about crypto. 
+> The resulting standard was incredibly complicated -- so complex that every real cryptographer who tried to analyze it threw up their hands and said, "We can't even begin to evaluate its security unless you simplify it radically". 
+
+[Chrome's trojan horse strategy](http://www.theverge.com/2013/9/5/4696618/google-chrome-apps-chrome-os-windows-os-x-blink)
+> Chrome Apps amount to a Trojan horse for Google. By way of the Chrome browser, the company is essentially putting its own app ecosystem right on top of Windows and OS X. It’s a play that’s been months in the making. “There are still reasons why a developer would build a native app over a Chrome App today, but we’re working to tackle each one,” Rakowski says. Google began promoting a handful of Chrome Apps (then called Packaged Apps) in May. In July, its Chrome notification center was pushed out to Windows and Chrome OS users, allowing for alerts and pop-ups outside the browser window. And for months, Chrome’s developer channels have shipped with an app launcher that lives in the Windows taskbar — this launcher rolled out to the public today too.
+> 
+> The new apps look and behave much like the native apps you find on Windows and OS X. They’re built using web technologies, but also with Chrome-specific code that means they won’t be able to run on other web browsers — they’re truly Chrome apps. They can exist outside of your browser window as distinct apps, work offline, and sync across devices and operating systems. They can also access your computer’s GPU, storage, camera, ports, and Bluetooth connection. Chrome Apps are, for now, only available through Chrome on Windows or Chrome OS on a Chromebook. Mac users will have to wait another six weeks before their version of Chrome will be updated.
+
+[Plumbing OpenBSD Software with gdb(1)](http://www.packetmischief.ca/2013/09/09/plumbing-openbsd-software-with-gdb1/): An introudction on how to use gdb's `malloc_dump` and `list ADDRESS` to find memory leaks in OpenBSD's snmpd. 

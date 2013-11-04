@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Responding to peer review, lisp as a meta language, future of blogging is linking and technology has lots its golden child image. "
+title: "Responding to peer review, lisp as a meta language, future of blogging is linking and technology has lost its golden child image. "
 date: 2013-07-04 16:47
 comments: true
 categories: 
