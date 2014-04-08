@@ -2,6 +2,7 @@
 layout: post
 title: "Turn Tiwai Point into the world's largest Bitcoin mining farm"
 date: 2013-11-30 20:49
+published: false
 comments: true
 categories: 
 - fun

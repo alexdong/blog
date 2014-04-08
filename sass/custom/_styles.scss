@@ -22,7 +22,7 @@ body > header p a, body > header p a:visited, body > header p a:hover {
 nav { display: none; }
 
 #blog-archives h1 { font-size: 1em;}
-#blog-archives h2:first-child { padding-top: 5px; margin-left: -70px;}
+#blog-archives h2 { padding-top: 5px; padding-bottom: 5px;  border-bottom: 5px solid #ccc; }
 #blog-archives article { background: none;}
 #blog-archives article time .month { text-transform: none;}
 #blog-archives article footer { font-size: 0.85em;}
