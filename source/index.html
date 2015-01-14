@@ -4,13 +4,6 @@ title:
 footer: false
 ---
 
-<div class="selfintro">
-    <article class="hentry">
-        <img src="/avatar.jpg">
-        <p>Product guy. CEO of <a href="http://happymoose.nz">happymoose</a>. Nature Lover. Tea drinker. Armchair traveler. Classic liberal. Weekend gardener. Father of Mia. Husband to <a href="http://twitter.com/zephyrfang">@zephyrfang</a></p>
-    </article>
-</div>
-
 <div id="blog-archives">
 {% for post in site.posts reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
