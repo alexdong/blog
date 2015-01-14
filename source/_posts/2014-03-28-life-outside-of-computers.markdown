@@ -30,6 +30,6 @@ interface that allows side-by-side comparison between 1880 and 2014.
 
 The Duplo page layout engine searches between 2000 to 6000 candidate layouts for the best fit. It takes three steps to come up with a layout for a page:
 1) create 2000+ layouts in a decision tree structure
-2) select layout and apply content: It uses [Branch and bound] to shrink the candidate set, then it uses a dozen of heuristic like [Perlin noise](http://en.wikipedia.org/wiki/Perlin_noise) to maintain an organic feel between pages. 
+2) select layout and apply content: It uses Branch and bound to shrink the candidate set, then it uses a dozen of heuristic like [Perlin noise](http://en.wikipedia.org/wiki/Perlin_noise) to maintain an organic feel between pages. 
 3) refining layout by aligning the DOM elements to baseline grids
 (Via: [AlanInteractive](https://twitter.com/AlanInteractive/status/449355010464165888))
