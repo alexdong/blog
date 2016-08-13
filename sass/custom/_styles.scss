@@ -8,6 +8,7 @@ h2 { font-size: 1.2em;}
 h3 { font-size: 1.05em;}
 h3, h4, h5, h6 { font-size: 1em;}
 
+body { color: #222; }
 body > div > div { border-right-width: 0px;}
 
 body > header { border-bottom: 1px solid #aaa; text-align: center; font-size: 1em; margin: 0 0 0.5em 0; padding: 10px 20px;}
@@ -40,8 +41,10 @@ p, article blockquote, ol, ul {
     margin-bottom: 0.5em; 
 }
 article blockquote { 
-    font-size: 0.9em;
+    font-family: "Courier New", monospace;
+    font-size: 0.95em;
     font-style: normal;
+    color: #444;
 }
 
 body > footer { background: none; text-align: center;}
